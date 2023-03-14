@@ -1,0 +1,15 @@
+*{
+  margin: none;
+  padding: none;
+}
+
+
+.col-md-4{
+  background-color: blue;
+}
+
+.col-md-8{
+  margin: none;
+  padding: 20px;
+  background-color: white;
+}
